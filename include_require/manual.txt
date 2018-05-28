@@ -1,0 +1,3 @@
+http://php.net/manual/ru/function.include.php
+
+http://php.net/manual/ru/function.require.php
